@@ -3,4 +3,4 @@ cerate react App with the following requirements:
 step 1 : input field should accept to do alphanumeric work.
 step 2 : provide add button to add the to do work.
 step 3 : once click add button as user I should able to view my to do task in list format.
-step 4 : as complettion of my work user should be able to delete the specific task from list.
+step 4 : as completion of user work ,user should be able to delete the specific task from list.
